@@ -8,7 +8,7 @@ The standard Python install is enough and I used Visual Studio Code as an IDE
 The Project was to practise my Python skills and to improve my problem solving skills. To implement what I learnt so far and to be at the level of the course
 
 ## 3. File Descriptions
-Files are per the milestones achieved
+Files are per the milestones achieved. Right from creating basic methods to creating the class and finishing the game. 
 
 ## 4. How to interact with the project
 The project is a Python project and you can download the script and run to play the game.
